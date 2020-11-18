@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Tiffany!
 
 
-- 🌱 I’m currently learning everything I can about Front-End Development 
+- 🌱 I’m currently learning everything I can about Web Development 
 
 - 📫  tiffany.santos@gmail.com 
 
